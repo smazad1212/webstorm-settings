@@ -5,6 +5,7 @@
       <blacklist language="JavaScript">
         <added pattern="React.Component.setState(state,callback)" />
         <added pattern="Array.map(callbackfn,thisArg)" />
+        <added pattern="setTimeout(handler,timeout,arguments)" />
       </blacklist>
     </blacklists>
   </component>

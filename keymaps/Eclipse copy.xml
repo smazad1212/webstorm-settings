@@ -1,7 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>

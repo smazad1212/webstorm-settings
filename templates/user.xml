@@ -1,9 +1,0 @@
-<templateSet group="user">
-  <template name="RC" value="import React, { Component } from 'react';&#10;&#10;class $App$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$test$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $App$;" description="ReactJs class" toReformat="false" toShortenFQNames="true">
-    <variable name="App" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>

@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-21d1b5ad:16c91d218d4:-8000" />
     <option name="version" value="4.11.4" />
   </component>

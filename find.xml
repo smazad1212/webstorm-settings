@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/Envoy/WF_ENV_E23_LZ1_-_Sitewide_bundle/varA/build/test.js'" />
-    <option name="defaultScopeName" value="File '.../src/Envoy/WF_ENV_E23_LZ1_-_Sitewide_bundle/varA/build/test.js'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/Envoy/WF_ENV_E23_LZ1_-_Sitewide_bundle/varA/build/test.js'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
